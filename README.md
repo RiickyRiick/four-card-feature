@@ -163,7 +163,7 @@ Now, another cool thing that I learned was regarding the flexbox align-self rule
 ```
 The best way I can explain this is if you take a look at the first image, the .supervisor and .calculator. These are the only .grid-items taking the full height of the .box-container. Two .grid-items (.team-builder and .karma), which are grouped together, take up the center. 
 
-Now, since all the .grid-items are the same size, adding the align-self: center not only aligns the .supervisor and .calculator to the center but simultaneously shrinks them back to their original size, just like the .grid-items in the center, since it was only taking up the full height of its 'Parent Grid Container' to cover the space that was undefined. 
+Now, since all the .grid-items are the same size, adding the align-self: center not only aligns the .supervisor and .calculator to the center but simultaneously shrinks them back to their original size, just like the .grid-items in the center, since it was only taking up the full height of its 'Parent Grid Container' to cover the space that was undefined, since the items now have a specific rule added to them.
 
 _______________________________________________________________________
 
