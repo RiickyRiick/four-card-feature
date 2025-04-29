@@ -23,8 +23,7 @@ This is a solution to the [Four card feature section challenge on Frontend Mento
 ## Overview
 
 Coming into this project, I already had some knowledge of CSS Grid and Flexbox 
-(check out the resource section to see all the website's helpful things that assisted 
-me throughout the project). I started the 'Mobile-First workflow' but didn't prefer it. Ultimately, I restarted the project and wrote my code 
+(check out the resource section to see all the resources that helped me out). I started the 'Mobile-First workflow' but didn't prefer it. Ultimately, I restarted the project and wrote my code 
 starting from the 'Desktop-First workflow. 
 
 I started using Grid-areas at first, but I spent more time trying to figure out 
@@ -209,9 +208,12 @@ I also want to thank Vanza Setia for his article, "The benefits of writing a goo
 
 
 <a href="https://mimo.com" target="_blank">Mimo.com</a>
-<a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=25BBPMXPLOYCTRL" target="_blank">The Complete Full-Stack Web Development Bootcamp</a> : 
+<a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=25BBPMXPLOYCTRL" target="_blank">The Complete Full-Stack Web Development Bootcamp</a>  
 taught by <a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/?couponCode=25BBPMXPLOYCTRL#instructor-1">Dr. Angela Yu, Developer and Lead Instructor Profile</a>
+<a href="https://www.youtube.com/c/MrCoderYt" target="_blank">Mr Coder</a>
 <a href="https://codepip.com/games/grid-garden/" target="_blank">CSS Grid Garden Game/a>
 <a href="https://codepip.com/games/flexbox-froggy/" target="_blank">Game/a>Flexbox Froggy</a>
+
+
 
 
