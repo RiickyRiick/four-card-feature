@@ -154,7 +154,7 @@ Now, another cool thing that I learned was regarding the flexbox align-self rule
 }
 ```
 'With align-self: center'
-<img src="./Align-self center"/>
+<img src="./design/Align-self center"/>
 
 ```css
 .supervisor, .calculator {
